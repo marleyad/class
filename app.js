@@ -38,7 +38,7 @@ class Motorcycle extends Vehicle {
         }
     }
 
-let myFirstMotorcycle = new Motorcycle ('Honda', 'Grom', 2020)
+let myFirstMotorcycle = new Motorcycle ('Honda', 'Grom', 2021)
 
 class Garage {
     constructor (capacity) {
