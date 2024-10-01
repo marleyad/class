@@ -17,7 +17,6 @@ class Vehicle {
 
 let myFrirstVehicle = new Vehicle ('Honda', 'convertible', 2013)
 
-
 class Car extends Vehicle {
     constructor (make, model, year) {
         super(make, model, year)
