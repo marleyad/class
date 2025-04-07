@@ -5,7 +5,7 @@ class Vehicle {
         this.model = model 
         this.year = year 
     }
-
+ 
     honk() {
         return "beep!"
     }
